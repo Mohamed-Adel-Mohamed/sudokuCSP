@@ -1,0 +1,3 @@
+1. install go lang
+2. run in terminal go run main.go
+3.THANKS
